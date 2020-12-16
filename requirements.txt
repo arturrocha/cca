@@ -1,0 +1,7 @@
+pymongo
+pytest
+pytest-cov
+pytest-flakes
+pytest-pep8
+simpledbf
+pandas
