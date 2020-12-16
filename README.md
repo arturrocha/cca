@@ -20,7 +20,7 @@ cd src
 git clone https://github.com/arturrocha/cca.git
 cd cca
 pip install -r requirements.txt
-pytest
+pytest --cov=cca/
 ```
 
 
